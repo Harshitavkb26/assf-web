@@ -1,0 +1,53 @@
+#main
+{
+    height: 2000px;
+    width: 1200px;
+    background-color: chocolate;
+    position: relative;
+    left:150px;
+}
+#b1
+{
+height: 150px;
+width: 500px;
+background-color: cornsilk;
+position: relative;
+left:350px;
+top:100px;
+}
+#b2
+{
+    color:blue;
+    text-align: center;
+    font-size: 2cm;
+}
+#b3
+{
+    height: 2cm;
+    width: 2cm;
+    position: relative;
+    bottom:135px;
+    left:320px;
+
+}
+#b4
+{
+    color: blue;
+    position: relative;
+    bottom:150px;
+    width: 500px;
+}
+#b5
+{
+    text-align:center;
+    position: relative;
+    bottom: 175px;
+}
+#b6
+{
+    position: relative;
+    left:175px;
+    top:150px;
+    border-style: solid;
+    border-width: 5px;
+}
