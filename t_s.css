@@ -1,6 +1,6 @@
 #main
 {
-    height:2100px;
+    height:2500px;
     width:1500px;
     background-color: rgb(219, 134, 219);
 }
@@ -42,7 +42,7 @@ li.l1
             position: relative;
             bottom:850px;
             text-decoration: underline;
-            color: rgb(87, 236, 216);
+            color: rgb(28, 6, 109);
             
         }       
         #n2
@@ -54,7 +54,7 @@ li.l1
             position: relative;
             bottom: 1000px;
             text-decoration: underline;
-            color: rgb(87, 236, 216);
+            color: rgb(60, 7, 85);
             
         }    
        #i2
