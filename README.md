@@ -5,6 +5,8 @@
     Harshita verma and back-end is done by Shweta singh.
 # About -
 When we open the website we first reach on "login" page.
-![](login.jpg)
 
+![](login.jpg)
+* This page contains Username and password .
 ### Features of login page  
+*  
