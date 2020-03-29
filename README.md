@@ -97,3 +97,9 @@ login to the side  again easily.
 tag in login page.
 * In this page some special CSS is also used to make it attractive.
 * whoes code is here
+![](sign2.jpg)
+## Contact Us Page
+### Features
+* Contact number of all the technical experts,Hospitality team heads and Co-ordinators
+are displayed in this page for any Query,complain or suggetions.
+* the background image shows the connectiveness and flexibality of techtantra team.
