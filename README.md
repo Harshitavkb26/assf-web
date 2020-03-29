@@ -21,7 +21,7 @@ When we open the website we first reach on "login" page.
 Home page contains title bar . it's position is relative not fixed in home page .
 It contains the information about all the events and about compedition and the notification
 about live concert and the numbers of important authority holders.
-![](home 1.jpg)
+![](home%201.jpg)
 ### Features
 * It contains logo of IIT Silchar ,A beautiful backgound image on which date of the events
 are written.
