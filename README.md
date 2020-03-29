@@ -103,3 +103,13 @@ tag in login page.
 * Contact number of all the technical experts,Hospitality team heads and Co-ordinators
 are displayed in this page for any Query,complain or suggetions.
 * the background image shows the connectiveness and flexibality of techtantra team.
+![](cu.jpg)
+#### link of repository is given here:
+[repo](https://github.com/Harshitavkb26/assf-web.git)
+#### link of Screen Recording of Web site is given here:
+[Screen Recording]()
+
+###### note
+exteamly sorry to everyone as this project is not properly completed as back-end could
+not be completed because of networking problems and loss of communication between me and
+my partner shweta during lock down of Covid 19 in the country-side.
