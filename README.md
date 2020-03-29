@@ -74,3 +74,14 @@ happiness.
 * A vibrant ,glorious , glossy and crazy concert image as a background image increases the 
 intencity of enjoying life.
 * The image we see let us to be carefree from all the daily life tentions.
+![](c_2.jpg)
+### Features
+* An oval introductory blog gives a brief discription about the concert.
+* An iframe is used to create enthusiasm among participants regarding the concert
+of juss manak.
+* in this page CSS is used very beautifully to highlight the components of the page,
+with the help of CSS these simple elements gives a royal look to the page.
+* here date is also highlighted in an eye-chatchy manner.
+![](c_3.jpg)
+* Images and the names of all the super six singers has been provided in the page.
+## Sign up
