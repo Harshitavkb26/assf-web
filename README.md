@@ -59,3 +59,11 @@ importance.And these blogs are arranged in starecase manner using CSS.
 * On clicking Either on image or on image tag it will take you to same web page.
 * the web page which will be opened provides description about the compedition event
 on which you clicked.
+![](com%203.jpg)
+* The web page opened specifies name of the compedition in an eye-chatchy manner.
+* blog below it gives information about compedition, gidelines to be followed and worth 
+of the prize given to winning team.
+* This web page also contains a specilised anchor tag " GO BACK" which will lead you to 
+main compedition web page.
+* In this way you will be well occupied with all the information of the respective compedition
+you want to participate in.
