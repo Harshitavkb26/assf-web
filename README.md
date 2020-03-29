@@ -48,4 +48,9 @@ color from blue to pink.
 * Three blogs of "machine Learning","Block Chain" and "Cloud-Computing" specifies their
 importance.And these blogs are arranged in starecase manner using CSS.
 ## Compedition Page
+![](com 1.jpg)
+### Features
+* The Humurous background image shows compeditive scenario in today's world.
+* It promotes apisthemology of compedition among participants.
+* the image contains a compedition tag too.
 
