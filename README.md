@@ -27,3 +27,4 @@ about live concert and the numbers of important authority holders.
 are written.
 * it contains introduction about "TECHTANTRA".
 
+![](home 2.jpg)
