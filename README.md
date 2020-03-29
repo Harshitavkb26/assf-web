@@ -27,4 +27,7 @@ about live concert and the numbers of important authority holders.
 are written.
 * it contains introduction about "TECHTANTRA".
 
-![](home 2.jpg)
+![](home%202.jpg)
+
+* And using iframe a video of live concert of Guru Randhawa is also featurised.
+## Sponser page
