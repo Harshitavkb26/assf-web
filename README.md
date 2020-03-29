@@ -85,3 +85,15 @@ with the help of CSS these simple elements gives a royal look to the page.
 ![](c_3.jpg)
 * Images and the names of all the super six singers has been provided in the page.
 ## Sign up
+![](sign.jpg)
+* Using this page one can creat his new account to register himself to be a part of the
+"TACH_TANTRA".
+* by entering username and email and creating a new password he can register himself.
+* The present social networking youth can also sign up by using their facebook,twitter or 
+google accounts.
+* This information will be saved using "MYSQL" database with the help of which you can 
+login to the side  again easily.
+* You can go to this Sign up page either using Sign up tag or using the "don't have an account "
+tag in login page.
+* In this page some special CSS is also used to make it attractive.
+* whoes code is here
