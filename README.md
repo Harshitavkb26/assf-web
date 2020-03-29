@@ -39,3 +39,7 @@ and its color also changes when curser moves on it.
 color from blue to pink.
 * this page contains logo of all the main sponser.
 ## Tech-Summit
+![](t_s1.jpg)
+### Features
+* It contains a vibrant background image and logo of IIT Silchar.
+* it contains title bar which is fixed so that we can move to any disired page.
