@@ -31,3 +31,11 @@ are written.
 
 * And using iframe a video of live concert of Guru Randhawa is also featurised.
 ## Sponser page
+![](s1.jpg)
+### Features
+* here title bar is fixed which enables user to directly jump on other web pages,
+and its color also changes when curser moves on it.
+* The sub headings of sponser page like co-presented by, title sponser changes its 
+color from blue to pink.
+* this page contains logo of all the main sponser.
+## Tech-Summit
