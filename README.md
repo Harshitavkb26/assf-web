@@ -38,8 +38,14 @@ and its color also changes when curser moves on it.
 * The sub headings of sponser page like co-presented by, title sponser changes its 
 color from blue to pink.
 * this page contains logo of all the main sponser.
-## Tech-Summit
+## Tech-Summit Page
 ![](t_s1.jpg)
 ### Features
 * It contains a vibrant background image and logo of IIT Silchar.
 * it contains title bar which is fixed so that we can move to any disired page.
+![](t_s2.jpg)
+* It contains a special div specifing the date of the event.
+* Three blogs of "machine Learning","Block Chain" and "Cloud-Computing" specifies their
+importance.And these blogs are arranged in starecase manner using CSS.
+## Compedition Page
+
