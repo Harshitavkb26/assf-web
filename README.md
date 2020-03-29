@@ -68,3 +68,9 @@ main compedition web page.
 * In this way you will be well occupied with all the information of the respective compedition
 you want to participate in.
 ## Concert
+![](c_1.jpg)
+* The sound of loud music sprays happiness all around therefore a concert adds up smiles and 
+happiness.
+* A vibrant ,glorious , glossy and crazy concert image as a background image increases the 
+intencity of enjoying life.
+* The image we see let us to be carefree from all the daily life tentions.
